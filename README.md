@@ -1,9 +1,9 @@
-# Compas_MAT
+﻿# Compas_MAT
 
 
 Antoine, Théo, Maxime 
 
-projet pour ISN
+Projet pour ISN.
 
 # Instructions
 
@@ -14,3 +14,5 @@ Plus vous cliquerez proche du centre du cercle plus vous marquerez
 de points. Une fois que vous avez cliqué sur le cercle, vous devrez
 recommencer jusqu'à ce que le jeu se termine. Vous serez alors 
 dirigé vers la page "Score".
+
+
